@@ -21,10 +21,15 @@ About This site is to share the solution of prgramming and quiz assignment given
 <a href="#w12"> `Week 12`</a>
 ## [WEEK 1](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK-1)<span id="w1"></span>
   [Java Week 1:Q1](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK-1/Exercise1_1.java) To find the perimeter and area of a circle given a value of radius.
+  
   [Java Week 1:Q2](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK-1/Exercise1_2.java) To find the largest among three numbers x, y, and z.
-  [Java Week 1:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_3.java) Consider First n even numbers starting from zero(0) and calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.
+  
+  [Java Week 1:Q3](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK-1/Exercise1_3.java) Consider First n even numbers starting from zero(0) and calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.
+  
   [Java Week 1:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_4.java) To check whether the number is an Armstrong number or not.
+  
   [Java Week 1:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_5.java) To help Ram , find the highest mark and average mark secured by him in "s" number of subjects.
+  
 ## [WEEK 2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/tree/WEEK-2)<span id="w2"></span>
   [Java Week 2:Q1](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question211.java) To call the method  print() in class Student following the concept of inner class.
    [Java Week 2:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-2/Question212.java) To call the method  print() of class Student first and then call print() method of class School.
