@@ -2,7 +2,7 @@
 About This site is to share the solution of prgramming and quiz assignment given during the Programming In java by Prof. Debasis Samantha on NPTEL.
 
 
-[![GitHub stars](https://img.shields.io/github/stars/bkkothari2255/Programming_In_Java_NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/bkkothari2255/Programming_In_Java_NPTEL/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/vishnu02-droid/Programming_In_Java_NPTEL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/vishnu02-droid/Programming_In_Java_NPTEL/stargazers/)
 [![GitHub followers](https://img.shields.io/github/followers/vishnu02-droid.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vishnu02-droid?tab=followers)
 
 #### Navigate to Week 
@@ -21,7 +21,7 @@ About This site is to share the solution of prgramming and quiz assignment given
 <a href="#w12"> `Week 12`</a>
 ## [WEEK 1](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK-1)<span id="w1"></span>
   [Java Week 1:Q1](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK-1/Exercise1_1.java) To find the perimeter and area of a circle given a value of radius.
-  [Java Week 1:Q2](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_2.java) To find the largest among three numbers x, y, and z.
+  [Java Week 1:Q2](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK-1/Exercise1_2.java) To find the largest among three numbers x, y, and z.
   [Java Week 1:Q3](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_3.java) Consider First n even numbers starting from zero(0) and calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.
   [Java Week 1:Q4](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_4.java) To check whether the number is an Armstrong number or not.
   [Java Week 1:Q5](https://github.com/bkkothari2255/Programming_In_Java_NPTEL/blob/WEEK-1/Exercise1_5.java) To help Ram , find the highest mark and average mark secured by him in "s" number of subjects.
