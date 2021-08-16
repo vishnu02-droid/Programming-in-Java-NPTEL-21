@@ -34,12 +34,12 @@ About This site is to share the solution of prgramming and quiz assignment given
   [Java Week 2:Q1](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK%20-2/Exercise-2_1.java) Complete the code segment to call the method  print() of class Student first and then call print() method of class School.
 
    [Java Week 2:Q2](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK%20-2/Exercise2_2.java) To Complete the code segment to call the method  print() of class given class Printer to print the following.
-
+```text
 --------------------------------
 Hi! I am class STUDENT
 Hi! I class SCHOOL.
 --------------------------------
-
+ ``` 
    
   [Java Week 2:Q3](https://github.com/vishnu02-droid/Programming-in-Java-NPTEL-21/blob/main/WEEK%20-2/Exercise2_3.java) To call print() method of class Question by creating a method named ‘studentMethod()’.
   
